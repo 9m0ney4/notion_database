@@ -1,0 +1,4 @@
+notion_client
+pandas
+json
+os
